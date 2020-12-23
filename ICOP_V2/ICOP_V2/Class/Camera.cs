@@ -79,11 +79,13 @@ namespace ICOP_V2.Class
                 {
                     if (cam.Read(image))
                     {
-                        cam.Read(image);
                         if (!image.Empty())
                         {
-                            if (ICAMbox.Image != null) ICAMbox.Image.Dispose();
-                            ICAMbox.Image = this.image.ToBitmap();
+                            ICAMbox.Invoke(new MethodInvoker(delegate
+                            {
+                                if (ICAMbox.Image != null) ICAMbox.Image.Dispose();
+                                ICAMbox.Image = this.image.ToBitmap();
+                            }));
                         }
                     }
                     else
@@ -93,6 +95,7 @@ namespace ICOP_V2.Class
                 }
             }
         }
+
         public void reconnectCam()
         {
             if (!camInitted)

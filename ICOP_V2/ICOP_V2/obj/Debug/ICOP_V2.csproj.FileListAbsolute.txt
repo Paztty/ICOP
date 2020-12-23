@@ -8,7 +8,6 @@ F:\1. Project\2. ICOP\2.ICOP Rev 2.0.0\ICOP_V2\ICOP_V2\obj\Debug\ICOP_V2.csproj.
 F:\1. Project\2. ICOP\2.ICOP Rev 2.0.0\ICOP_V2\ICOP_V2\obj\Debug\ICOP_V2.csproj.CoreCompileInputs.cache
 F:\1. Project\2. ICOP\2.ICOP Rev 2.0.0\ICOP_V2\ICOP_V2\obj\Debug\ICOP_V2.exe
 F:\1. Project\2. ICOP\2.ICOP Rev 2.0.0\ICOP_V2\ICOP_V2\obj\Debug\ICOP_V2.pdb
-F:\1. Project\2. ICOP\2.ICOP Rev 2.0.0\ICOP_V2\ICOP_V2\obj\Debug\ICOP_V2.FormMain.resources
 F:\1. Project\2. ICOP\2.ICOP Rev 2.0.0\ICOP_V2\ICOP_V2\obj\Debug\ICOP_V2.Model.Model.resources
 F:\1. Project\2. ICOP\2.ICOP Rev 2.0.0\ICOP_V2\ICOP_V2\obj\Debug\ICOP_V2.Report.Report.resources
 F:\1. Project\2. ICOP\2.ICOP Rev 2.0.0\ICOP_V2\ICOP_V2\obj\Debug\ICOP_V2.Setting.Setting.resources
@@ -52,3 +51,4 @@ F:\1. Project\2. ICOP\2.ICOP Rev 2.0.0\ICOP_V2\ICOP_V2\bin\Debug\System.Text.Enc
 F:\1. Project\2. ICOP\2.ICOP Rev 2.0.0\ICOP_V2\ICOP_V2\bin\Debug\System.Text.Json.xml
 F:\1. Project\2. ICOP\2.ICOP Rev 2.0.0\ICOP_V2\ICOP_V2\bin\Debug\System.Threading.Tasks.Extensions.xml
 F:\1. Project\2. ICOP\2.ICOP Rev 2.0.0\ICOP_V2\ICOP_V2\bin\Debug\System.ValueTuple.xml
+F:\1. Project\2. ICOP\2.ICOP Rev 2.0.0\ICOP_V2\ICOP_V2\obj\Debug\ICOP_V2.FormMain.resources

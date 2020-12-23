@@ -19,7 +19,8 @@ namespace ICOP_V2.Class
             public double cameraFocus { get; set; } = 0;
             public double cameraExposure { get; set; } = 0;
             public double cameraZoom { get; set; } = 0;
-
+            public int cameraWidth { get; set; } = 1600;
+            public int cameraHeight { get; set; } = 900;
             public cameraSetting() { }
             public void getFromCamera(Camera camera)
             {
@@ -28,12 +29,16 @@ namespace ICOP_V2.Class
                 this.cameraFocus = camera.cam.Focus;
                 this.cameraExposure = camera.cam.Exposure;
                 this.cameraZoom = camera.cam.Zoom;
+                this.cameraWidth = camera.cam.FrameWidth;
+                this.cameraHeight = camera.cam.FrameHeight;
             }
             public void setToCamera(Camera camera)
             {
                 camera.cam.Set(OpenCvSharp.VideoCaptureProperties.Focus, this.cameraFocus);
                 camera.cam.Set(OpenCvSharp.VideoCaptureProperties.Exposure, this.cameraExposure);
                 camera.cam.Set(OpenCvSharp.VideoCaptureProperties.Zoom, this.cameraZoom);
+                camera.cam.Set(OpenCvSharp.VideoCaptureProperties.FrameWidth, cameraWidth);
+                camera.cam.Set(OpenCvSharp.VideoCaptureProperties.FrameHeight, cameraHeight);
             }
         }
 

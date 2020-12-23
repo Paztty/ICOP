@@ -120,7 +120,61 @@
   <metadata name="timer1.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
     <value>17, 17</value>
   </metadata>
+  <metadata name="clName.UserAddedColumn" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
+  <metadata name="clPCB.UserAddedColumn" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
+  <metadata name="clSpect.UserAddedColumn" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
+  <metadata name="clValue.UserAddedColumn" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
+  <metadata name="clResult.UserAddedColumn" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
+  <metadata name="clSkip.UserAddedColumn" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
   <assembly alias="System.Drawing" name="System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+  <data name="btManImageBack.BackgroundImage" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+    <value>
+        iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAABGdBTUEAALGPC/xhBQAAAAlwSFlzAAAA
+        3QAAAN0BcFOiBwAAABl0RVh0U29mdHdhcmUAd3d3Lmlua3NjYXBlLm9yZ5vuPBoAAAIKSURBVFhHzZe7
+        SgNBFIa3EcHCxsInSCGkFgMBK9FUCuYRFOML2KWxEJ9AFC3sLQRBsLEQLyQYjQGDYEwMuW9uZBOrFI5z
+        1kyYTP5skkLG4ls2szD/nzPnnJkxGGMjkUiwyXTd8iVrzcNUrXGTqlrvnFYoW/oOZ0vtx5zZeCpU4i/F
+        SjCUqE2jORBwUCZlfs1+Vq0DLtbkMJWHTLEPMhXJm6+xTN2N5pSBg0SEsYlUzQpykZYqKoMMCMjIc968
+        jhQKU0iDgIO5ZnOmE2YoKoOEVWh5otmyC2n1DSTLlouH/AOJIZAgIpw129G8uaTq9fygfz6OOIHEBmGb
+        UCLRffld89HCLoOEnKDlkHOia6CTcFDECSQyDErMHgNUanwyx2xH3MbiUIC4S+fZ8eUV/EbVIUrUNtCp
+        cygyiNPzC7a4ugYFzu7DbH55hfm3AvA7QX3CNkAdjk8ImwzirVBmO3v7bMHns1En3j06YW6vl815PI4G
+        KArUMQ1qr0gIQSFf39jsissGKOT+wLYtLHAyQFDbNuzeDsRURMhlcWFAhFwWH8UA7R08+51LTw25ihzy
+        cQ1QSRpchHY1KI5CroKEBcMM0C5KBmD5DQq5ChIWDDNAifgvDGheAt1JqL0MtTci7a1Y+2ZED+3bsW1C
+        54GE0H4kI7QeSgVaj+UCrRcTgdarmYy2y6nK31zPmfEDm13N+11+8egAAAAASUVORK5CYII=
+</value>
+  </data>
+  <metadata name="timerLoadImage.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+    <value>104, 17</value>
+  </metadata>
+  <metadata name="statusStrip1.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+    <value>245, 17</value>
+  </metadata>
+  <metadata name="getVideoCam0.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+    <value>361, 17</value>
+  </metadata>
+  <metadata name="getVideoCam1.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+    <value>494, 18</value>
+  </metadata>
+  <metadata name="getVideoCam2.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+    <value>618, 18</value>
+  </metadata>
+  <metadata name="getVideoCam3.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+    <value>728, 16</value>
+  </metadata>
+  <metadata name="GCbackground.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+    <value>860, 16</value>
+  </metadata>
   <data name="$this.Icon" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
     <value>
         AAABAAEAALYAAAEAIADo7gIAFgAAACgAAAAAAQAAbAEAAAEAIAAAAAAAANgCABILAAASCwAAAAAAAAAA
